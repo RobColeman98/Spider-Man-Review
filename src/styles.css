@@ -1,0 +1,56 @@
+body {
+    background-color: darkred;
+}
+
+
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+  
+}
+
+p {
+    color: black;
+    font-size: larger;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 50px;
+}
+
+#first-body-btn{
+    margin-left: 1000px;
+}
+
+#second-body-btn{
+ margin-left: 1000px;
+ 
+}
+
+#third-body-btn{
+    margin-left: 1000px;
+}
+
+#conclusion-btn{
+    margin-left: 1000px;
+}
+
+#prev-btn {
+    margin: -400px;
+    ;
+    
+}
+
+#pause-btn{
+    margin: 100px;
+}
+
+#journey-btn{
+    margin: 100px;
+}
+
+#sound-btn {
+    margin-left: 50px;
+}
